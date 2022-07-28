@@ -1,0 +1,19 @@
+﻿ID,nom,departement,salaire,absence,formation,annee
+a001,Ali,vente,15000,2,0,2021
+a002,Fatou ,maintenance,16000,3,4,2021
+a003,Demba,marketing,15500,1,0,2021
+a004,Jean,vente,12000,5,0,2021
+a005,Awa,vente,14000,3,0,2021
+a006,Youssouf,maintenance,15500,1,2,2021
+a007,Ndeye,marketing,20000,0,0,2021
+a008,Astou,marketing,17000,0,0,2021
+a009,Samba,vente,15000,11,3,2021
+a010,Aliou,marketing,30000,1,0,2021
+a011,Mactar,marketing,15500,4,0,2021
+a012,Malick,vente,21000,3,0,2021
+a013,Assane,maintenance,17000,2,1,2021
+a014,Mamadou,vente,19500,5,0,2021
+a015,Thierno,vente,15000,7,0,2021
+a016,Bintou,maintenance,33000,8,5,2021
+a017,Mariema,marketing,17000,2,0,2021
+a018,Julie,maintenance,10000,1,8,2021
